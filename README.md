@@ -1,6 +1,6 @@
 # Mern-Stack-Taskmanco
 
-# Projec Task Managerco (MERN)
+# Project Task Managerco (MERN)
 
 
 
