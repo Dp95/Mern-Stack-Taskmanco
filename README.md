@@ -66,7 +66,6 @@ With the rise of remote work and dispersed teams, there is a growing need for to
 
 ## **Technologies Used:**
 - **Frontend:**
-    - React (Vite)
     - Redux Toolkit for State Management
     - Headless UI
     - Tailwind CSS
@@ -133,12 +132,6 @@ If configured correctly, you should see a message indicating that the server is 
 &nbsp;
 
 # Client Side Setup
-
-## Environment variables
-First, create the environment variables file `.env` in the client folder. The `.env` file contains the following environment variables:
-
-- VITE_APP_BASE_URL = `http://localhost:8800` #Note: Change the port 8800 to your port number.
-
 ## Steps to run client
 
 1. Navigate into the client directory `cd client`.
